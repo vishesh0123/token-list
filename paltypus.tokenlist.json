@@ -1,0 +1,33 @@
+{
+  "name": "Paltypus Token List",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "logoURI": "",
+  "keywords": [
+    "paltypus",
+    "tokens",
+    "refi"
+  ],
+  "timestamp": "2022-05-25T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "name": "TT",
+      "address": "0xd449a0c2ede5415dc4f56a137b894e34b5334c3d",
+      "symbol": "TT ",
+      "decimals": 18,
+      "chainId": 65100000,
+      "logoURI": ""
+    },
+    {
+      "name": "DT",
+      "address": "0xb56eeadf495df9d706a9041d7ad7e53c019efd9a",
+      "symbol": "gcUSD",
+      "decimals": 18,
+      "chainId": 65100000,
+      "logoURI": ""
+    }
+  ]
+}
