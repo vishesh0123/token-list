@@ -16,7 +16,7 @@
     {
       "name": "TT",
       "address": "0xd449a0c2ede5415dc4f56a137b894e34b5334c3d",
-      "symbol": "TT ",
+      "symbol": "TT1",
       "decimals": 18,
       "chainId": 65100000,
       "logoURI": "https://raw.githubusercontent.com/project-paltypus/token-list/main/assets/ethereum-logo.png"
@@ -24,7 +24,7 @@
     {
       "name": "DT",
       "address": "0xb56eeadf495df9d706a9041d7ad7e53c019efd9a",
-      "symbol": "DT",
+      "symbol": "TT2",
       "decimals": 18,
       "chainId": 65100000,
       "logoURI": "https://raw.githubusercontent.com/project-paltypus/token-list/main/assets/ethereum-logo.png"
