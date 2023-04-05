@@ -28,6 +28,14 @@
       "decimals": 18,
       "chainId": 65100000,
       "logoURI": "https://raw.githubusercontent.com/project-paltypus/token-list/main/assets/ethereum-logo.png"
+    },
+    {
+      "name": "TT3 name",
+      "address": "0x9D80B908F029C98C4a8A32Ba6111F859213e09c7",
+      "symbol": "TT3",
+      "decimals": 18,
+      "chainId": 65100000,
+      "logoURI": "https://raw.githubusercontent.com/project-paltypus/token-list/main/assets/ethereum-logo.png"
     }
   ]
 }
