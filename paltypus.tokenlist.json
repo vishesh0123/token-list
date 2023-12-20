@@ -11,30 +11,22 @@
     "tokens",
     "refi"
   ],
-  "timestamp": "2023-05-25T20:37:00.000+00:00",
+  "timestamp": "2023-12-20T15:00:00.000+00:00",
   "tokens": [
     {
-      "name": "TT",
-      "address": "0xd449a0c2ede5415dc4f56a137b894e34b5334c3d",
-      "symbol": "TT1",
+      "name": "Newton",
+      "address": "0xBd770416a3345F91E4B34576cb804a576fa48EB1",
+      "symbol": "NTN",
       "decimals": 18,
-      "chainId": 65100000,
+      "chainId": 65100001,
       "logoURI": "https://raw.githubusercontent.com/project-paltypus/token-list/main/assets/ethereum-logo.png"
     },
     {
-      "name": "DT",
-      "address": "0xb56eeadf495df9d706a9041d7ad7e53c019efd9a",
-      "symbol": "TT2",
+      "name": "DAX",
+      "address": "0x35d26560547731c5b3ad3c19239827af1d3bcc23",
+      "symbol": "DAX",
       "decimals": 18,
-      "chainId": 65100000,
-      "logoURI": "https://raw.githubusercontent.com/project-paltypus/token-list/main/assets/ethereum-logo.png"
-    },
-    {
-      "name": "TT3 name",
-      "address": "0x9D80B908F029C98C4a8A32Ba6111F859213e09c7",
-      "symbol": "TT3",
-      "decimals": 18,
-      "chainId": 65100000,
+      "chainId": 65100001,
       "logoURI": "https://raw.githubusercontent.com/project-paltypus/token-list/main/assets/ethereum-logo.png"
     }
   ]
