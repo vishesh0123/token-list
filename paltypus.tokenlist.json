@@ -14,17 +14,25 @@
   "timestamp": "2023-12-20T15:00:00.000+00:00",
   "tokens": [
     {
-      "name": "Newton",
-      "address": "0xBd770416a3345F91E4B34576cb804a576fa48EB1",
-      "symbol": "NTN",
+      "name": "Token1",
+      "address": "0x812336387dBF67f33B129B10DFD712a419F8cE69",
+      "symbol": "T1",
       "decimals": 18,
       "chainId": 65100001,
       "logoURI": "https://raw.githubusercontent.com/project-paltypus/token-list/main/assets/ethereum-logo.png"
     },
     {
-      "name": "DAX",
-      "address": "0x35d26560547731c5b3ad3c19239827af1d3bcc23",
-      "symbol": "DAX",
+      "name": "Token2",
+      "address": "0x238da5Fb56c2148b3D622243d06b9a6d6858aB4a",
+      "symbol": "T2",
+      "decimals": 18,
+      "chainId": 65100001,
+      "logoURI": "https://raw.githubusercontent.com/project-paltypus/token-list/main/assets/ethereum-logo.png"
+    },
+    {
+      "name": "ERC20Token",
+      "address": "0x06D7Dcf5369aB56927f1f819643580ABD084B9F7",
+      "symbol": "ERC20",
       "decimals": 18,
       "chainId": 65100001,
       "logoURI": "https://raw.githubusercontent.com/project-paltypus/token-list/main/assets/ethereum-logo.png"
