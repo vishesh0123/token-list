@@ -18,31 +18,15 @@
       "address": "0xbd770416a3345f91e4b34576cb804a576fa48eb1",
       "symbol": "NTN",
       "decimals": 18,
-      "chainId": 65100002,
+      "chainId": 65100003,
       "logoURI": "https://raw.githubusercontent.com/project-paltypus/token-list/main/assets/ethereum-logo.png"
     },
     {
-      "name": "Decentralized Auton Exchange",
-      "address": "0x0dbf397d768815500894a003d8e9630062f5f9a8",
-      "symbol": "DAX",
-      "decimals": 18,
-      "chainId": 65100002,
-      "logoURI": "https://raw.githubusercontent.com/project-paltypus/token-list/main/assets/ethereum-logo.png"
-    },
-    {
-      "name": "Test Token 1",
-      "address": "0x5427F1078661ccA93562C5b2161C0ad113455c63",
-      "symbol": "TT1",
-      "decimals": 18,
-      "chainId": 65100002,
-      "logoURI": "https://raw.githubusercontent.com/project-paltypus/token-list/main/assets/ethereum-logo.png"
-    },
-    {
-      "name": "Test Token 2",
-      "address": "0x3F70CC08D6DF44c99FeB8367f8756A6d7dbcaE3d",
-      "symbol": "TT2",
-      "decimals": 18,
-      "chainId": 65100002,
+      "name": "USDT",
+      "address": "0x9f8d5ad3D8b3A0839Ff82fea068e9Ba045e8260A",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 65100003,
       "logoURI": "https://raw.githubusercontent.com/project-paltypus/token-list/main/assets/ethereum-logo.png"
     }
   ]
