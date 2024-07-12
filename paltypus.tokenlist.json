@@ -28,6 +28,14 @@
       "decimals": 6,
       "chainId": 65100003,
       "logoURI": "https://raw.githubusercontent.com/vishesh0123/token-list/main/assets/usdt-logo.png"
+    },
+    {
+      "name": "USDC",
+      "address": "0x71CF884F3E6F7d8432B60A88858A07A2Db37CDb3",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 65100003,
+      "logoURI": "https://raw.githubusercontent.com/vishesh0123/token-list/main/assets/usdc-logo.png"
     }
   ]
 }
